@@ -152,6 +152,6 @@ This project is open source under the [MIT License](LICENSE).
 <!-- Animated footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4fc3f7,100:0a0e2a&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7986CB&center=true&vCenter=true&width=400&lines=Made+with+❤️+by+itxashancode;⭐+Star+this+repo+if+you+like+it!" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7986CB&center=true&vCenter=true&width=400&lines=Made+with++by+itxashancode;Star+this+repo+if+you+like+it!" alt="Footer" />
 
 </div>
