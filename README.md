@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&height=80&lines=🌤️+Weather+Forecast;Real-Time+Weather+Data;Search+Any+City+Worldwide;Built+with+HTML+%2B+CSS+%2B+JS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&height=80&lines=+Weather+Forecast;Real-Time+Weather+Data;Search+Any+City+Worldwide;Built+with+HTML+%2B+CSS+%2B+JS" alt="Typing SVG" />
 
 <!-- Animated wave header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e2a,50:1565c0,100:4fc3f7&height=120&section=header&text=Weather%20Forecast&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
